@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/bin/Debug/net6.0/Task1
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/bin/Debug/net6.0/Task1.deps.json
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/bin/Debug/net6.0/Task1.dll
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/bin/Debug/net6.0/Task1.pdb
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/Task1.dll
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/refint/Task1.dll
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/Task1.pdb
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task1/obj/Debug/net6.0/ref/Task1.dll
