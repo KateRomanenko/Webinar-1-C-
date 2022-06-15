@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/Task5.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/Task5.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/Task5.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/Task5.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/bin/Debug/net6.0/Task5
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/bin/Debug/net6.0/Task5.deps.json
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/bin/Debug/net6.0/Task5.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/bin/Debug/net6.0/Task5.dll
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/bin/Debug/net6.0/Task5.pdb
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/Task5.dll
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/refint/Task5.dll
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/Task5.pdb
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/Task5.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/Less_1_CSharp_Romanenko/Task5/obj/Debug/net6.0/ref/Task5.dll
