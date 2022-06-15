@@ -3,7 +3,7 @@
 
 int n = 5;
 int a = -n;
-while (a<n)
+while (a<=n)
 {
 Console.WriteLine("a" + a);
 a++;
