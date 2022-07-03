@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "webinar_3_C#/1.0.0": {
+        "runtime": {
+          "webinar_3_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "webinar_3_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
