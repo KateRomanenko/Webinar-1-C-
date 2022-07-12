@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/Web_05_CSharp.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/Web_05_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/Web_05_CSharp.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/Web_05_CSharp.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/Web_05_CSharp.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/bin/Debug/net6.0/Web_05_CSharp
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/bin/Debug/net6.0/Web_05_CSharp.deps.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/bin/Debug/net6.0/Web_05_CSharp.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/bin/Debug/net6.0/Web_05_CSharp.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/bin/Debug/net6.0/Web_05_CSharp.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/Web_05_CSharp.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/refint/Web_05_CSharp.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/Web_05_CSharp.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/Web_05_CSharp.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/Less_CSharp_Romanenko/Web_05_CSharp/obj/Debug/net6.0/ref/Web_05_CSharp.dll
